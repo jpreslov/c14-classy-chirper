@@ -50,7 +50,7 @@ class App extends React.Component {
                   }}
                 />
               </div>
-
+                  <h2>Hey</h2>
               <div className="form-group">
                 <label className="text-white" htmlFor="msgInput">
                   Message
